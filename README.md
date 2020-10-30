@@ -1,4 +1,4 @@
-### Hi there, I'm Avalei. 👋
+### Hi there! 👋
 
 **Industries:** Edtech - Robotics - Biotech - App Development  
 **Mission:** Automate all the things all the time.
