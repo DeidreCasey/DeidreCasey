@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-**Industries:** Edtech - Robotics - Biotech - App Development  
+**Industries:** App Development - Automation - Biotech - Robotics  
 **Mission:** Automate all the things all the time.
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deidrecasey/)
 
-### How I Speak to Computers
+### How I speak to computers
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-a10000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-6618b8?style=for-the-badge&logo=appium&logoColor=white)
