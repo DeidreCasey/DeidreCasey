@@ -15,6 +15,7 @@
 
 ### My Environments
 ![Android](http://img.shields.io/badge/-Android-4bd68?style=for-the-badge&logo=android-studio&logoColor=ffffff)
-![iOS](https://img.shields.io/badge/-iOS-878787?style=for-the-badge&logo=ios)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![iOS](https://img.shields.io/badge/-iOS-272729?style=for-the-badge&logo=ios)
+![Linux](https://img.shields.io/badge/-Linux-ff7918?style=for-the-badge&logo=linux)
+![Markdown](https://img.shields.io/badge/-Markdown-2f9fe5?style=for-the-badge&logo=markdown)
+![VS Code](https://img.shields.io/badge/-VSCode-0066b8?style=for-the-badge&logo=visual-studio-code)
