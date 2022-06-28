@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deidrecasey/)
 
-### How I speak to computers
+### My Languages
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-a10000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-6618b8?style=for-the-badge&logo=appium&logoColor=white)
@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-ff5a00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-005c8b?style=for-the-badge&logo=css3&logoColor=white)
 
-### My Playgrounds
+### My Environments
 ![Android](http://img.shields.io/badge/-Android-4bd68?style=for-the-badge&logo=android-studio&logoColor=ffffff)
 ![iOS](https://img.shields.io/badge/-iOS-878787?style=for-the-badge&logo=ios)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
