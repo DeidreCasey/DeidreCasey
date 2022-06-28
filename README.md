@@ -15,10 +15,6 @@
 
 ### My Playgrounds
 ![Android](http://img.shields.io/badge/-Android-4bd68?style=for-the-badge&logo=android-studio&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![iOS](https://img.shields.io/badge/-iOS-878787?style=for-the-badge&logo=ios)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira-software)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
