@@ -1,11 +1,9 @@
-### Hi there! 👋
+# Hi there! 👋
 
-**Industries:** App Development - Automation - Biotech - Robotics  
-**Mission:** Automate all the things all the time.
+### My industries
+App Development - Automation - Biotech - Linguistics - Robotics
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deidrecasey/)
-
-### My Languages
+### My languages
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-a10000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-6618b8?style=for-the-badge&logo=appium&logoColor=white)
@@ -14,7 +12,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-ff5a00?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-005c8b?style=for-the-badge&logo=css3&logoColor=white)
 
-### My Environments
+### My environments
 ![Android](http://img.shields.io/badge/-Android-4bd68?style=for-the-badge&logo=android-studio&logoColor=ffffff)
 ![iOS](https://img.shields.io/badge/-iOS-272729?style=for-the-badge&logo=ios)
 ![Linux](https://img.shields.io/badge/-Linux-ff7918?style=for-the-badge&logo=linux)
