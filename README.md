@@ -1,10 +1,12 @@
 # Hi there! 👋
 
 ### My industries
-App Development - Automation - Biotech - Linguistics - Robotics
+App Development - Automation - Biotech - Robotics
 
 ### My languages
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-004daa?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-294058?style=for-the-badge&logo=dart&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-a10000?style=for-the-badge&logo=ruby&logoColor=white)
 ![Appium](https://img.shields.io/badge/-Appium-6618b8?style=for-the-badge&logo=appium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/-Cucumber-4bd68?style=for-the-badge&logo=cucumber&logoColor=white)
