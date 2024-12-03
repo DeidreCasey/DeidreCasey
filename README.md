@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### My industries
-App Development - Automation - Biotech - Robotics
+AI - App Development - Automation - Biotech - Robotics
 
 ### My languages
 ![Python](https://img.shields.io/badge/-Python-0077B5?style=for-the-badge&logo=python&logoColor=white)
